@@ -1,0 +1,15 @@
+{
+  "link" : {
+    "result" : [ {
+      "id" : "7235",
+      "total" : "78.2",
+      "customerId" : "9001"
+    }, {
+      "id" : "7236",
+      "total" : "68.2",
+      "customerId" : "9002"
+    } ],
+    "self" : "herf:/Orders",
+    "next" : "herf:Orders/page=2"
+  }
+}

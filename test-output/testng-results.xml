@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T15:25:08 IST" name="Default suite" finished-at="2024-07-15T15:25:11 IST" duration-ms="2719">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T15:25:08 IST" name="Default test" finished-at="2024-07-15T15:25:11 IST" duration-ms="2719">
+      <class name="ddt.Adddatafromexcel">
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:09 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="1242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="71" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="89" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="92" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="71" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:10 IST" duration-ms="76" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:10 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:11 IST" duration-ms="75" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method signature="sampleTest(java.lang.String,java.lang.String)[pri:0, instance:ddt.Adddatafromexcel@43c1b556]" started-at="2024-07-15T15:25:11 IST" name="sampleTest" data-provider="getData" finished-at="2024-07-15T15:25:11 IST" duration-ms="82" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest_10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- ddt.Adddatafromexcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
